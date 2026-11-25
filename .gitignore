@@ -1,0 +1,12 @@
+.env
+.api_env
+.data_env
+.bridge_env
+*.db
+*.db-*
+*.session
+*.key
+*.log
+data/
+__pycache__/
+.venv/

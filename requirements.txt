@@ -1,0 +1,9 @@
+telethon==1.45.0
+phonenumbers==9.0.43
+cryptography>=42
+aiogram>=3.31,<4
+aiohttp>=3.10
+aiofiles>=24.1
+aiosqlite>=0.20
+python-dotenv>=1.0
+jdatetime>=5.0
